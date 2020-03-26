@@ -2,7 +2,7 @@
 
 ## [flexbox.io](https://flexbox.io) e-õppe tund
 
-* Vaata [flexbox.io](https://flexbox.io) videod 11-20 ja samal ajal kirjuta koodi kaasa
+* Vaata [flexbox.io](https://flexbox.io) **videod 11-20** ja samal ajal kirjuta koodi kaasa
 * Tee pause ja süvene
 * Muuda rahulikus tempos CSS parameetreid ja HTML struktuuri ja vaadata, mis muutub
 * Avasta
