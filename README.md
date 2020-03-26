@@ -27,5 +27,5 @@ Näiteks nii:
 
 Kui midagi jäi veel segaseks, siis küsi üle!
 
-## [Ülesanne 1 küsimused ja vastused](./https://github.com/andrus14/eope/blob/master/REVIEW_01.md)
+## [Ülesanne 1 küsimused ja vastused](./REVIEW_01.md)
 
